@@ -1,0 +1,4 @@
+pyfirmata
+opencv-python
+mediapipe
+cvzone
