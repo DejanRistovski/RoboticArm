@@ -1,5 +1,5 @@
 # Роботска рака – имитатор
-Видео линк: **[YOUTUBE VIDEO LINK](https://www.youtube.com/watch?v=gCMSff0020s)**
+Видео линк: **[YOUTUBE VIDEO LINK](https://www.youtube.com/watch?v=mjofr21rRLY)**
 
 ![ROBOTIC_ARM_2!](git_media/ROBOTIC_ARM_2.jpg)
 ## Потрeбни делови: 
